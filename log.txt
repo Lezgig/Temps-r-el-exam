@@ -1,0 +1,64 @@
+pump_1 status : filling tank
+tank capacity = 0%
+pump_1 status : filling tank
+tank capacity = 20%
+pump_1 job has been done discarding task
+pump_2 job has been done discarding task
+wheel_1 status : emptying tank and making motor
+tank capacity = 40%
+1 motor built : 1
+wheel_2 status : emptying tank and making motor
+tank capacity = 15%
+1 wheel built : 1
+pump_1 status : filling tank
+tank capacity = 10%
+pump_1 status : filling tank
+tank capacity = 30%
+pump_1 job has been done discarding task
+pump_2 job has been done discarding task
+wheel_1 status : emptying tank and making motor
+tank capacity = 50%
+1 motor built : 2
+wheel_2 status : emptying tank and making motor
+tank capacity = 25%
+1 wheel built : 2
+pump_1 status : filling tank
+tank capacity = 20%
+pump_2 job has been done discarding task
+wheel_1 status : emptying tank and making motor
+tank capacity = 40%
+1 motor built : 3
+wheel_2 status : emptying tank and making motor
+tank capacity = 15%
+1 wheel built : 3
+pump_2 status : filling tank
+tank capacity = 10%
+pump_2 job has been done discarding task
+wheel_1 status : emptying tank and making motor
+tank capacity = 70%
+1 motor built : 4
+wheel_2 status : emptying tank and making motor
+tank capacity = 45%
+1 wheel built : 4
+pump_2 job has been done discarding task
+wheel_1 status : emptying tank and making motor
+tank capacity = 40%
+1 motor built : 5
+wheel_2 status : emptying tank and making motor
+tank capacity = 15%
+1 wheel built : 5
+pump_2 status : filling tank
+tank capacity = 10%
+pump_2 job has been done discarding task
+wheel_1 status : emptying tank and making motor
+tank capacity = 70%
+1 motor built : 6
+wheel_2 status : emptying tank and making motor
+tank capacity = 45%
+1 wheel built : 6
+pump_2 job has been done discarding task
+wheel_1 status : emptying tank and making motor
+tank capacity = 40%
+1 motor built : 7
+wheel_2 status : emptying tank and making motor
+tank capacity = 15%
